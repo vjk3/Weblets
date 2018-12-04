@@ -17,7 +17,9 @@ document.querySelector(\'.SearchBoxInput\').style.color=\'#CCC\';let qsd = qs(\'
 
 Since fish shell has autocomplete built in, I never have to type the whole alias (keyword); just the first three to four letters than `TAB` and `ENTER` to trigger the weblet.
 
-### List of Weblets
+---
+
+# List of Weblets
 * **Dark Mode for Pinterest**
 
   Why they don't offer this option on their site is beyond me.
